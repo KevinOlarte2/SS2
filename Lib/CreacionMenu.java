@@ -8,4 +8,8 @@ public class CreacionMenu {
     public static String aaa (String oa){
         return oa.toLowerCase();
     }
+
+    public static String sss(String ss){
+        return ss.toLowerCase();
+    }
 }
